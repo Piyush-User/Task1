@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const URL = 'http://localhost:5000';
+const URL = 'https://task1-backend-04em.onrender.com';
 // const API_URL = 'http://localhost:5000/tasks';
 const API_URL = `${URL}/tasks`;
 
